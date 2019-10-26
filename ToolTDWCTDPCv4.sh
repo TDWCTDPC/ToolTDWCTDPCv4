@@ -1,8 +1,0 @@
-#PGN NGE RECODE HIYA HIYA
-#LAGIAN ADA YG RECODE KAGA CANTUMIN NAMA AUTHOR NYA
-#YAITU (Frank_7)
-#KAPOKS KAN KALO W RECODE AOWKAOWKAOK
-
-z="
-";Zz='me :';hBz='hen';Qz='Cv4 ';Cz='figl';qz='read';Sz='mate';SBz='ols.';bz='kNam';cBz='rd =';Pz='CTDP';gz='LINU';Nz=' Too';iz=' "╚═';Mz=' "║L';GBz='else';Hz='echo';hz='X123';VBz='cat';DBz=' "║P';PBz='agi ';wz='me =';lBz='ull.';fz='s : ';Lz='╗"';gBz=']; t';Rz='Ulti';oz=':║"';pz='═╝"';ABz='7" ]';mBz='sh';sz='rnam';jBz='2';Dz='et L';FBz='ord ';xz=' "Fr';XBz='fi';uz='if [';Vz=' "║H';dBz=' "LI';Jz=' "╔═';TBz='sh" ';tz='e';LBz=' Sil';aBz=' $Pa';ez=' Pas';RBz='h To';nz='ame ';OBz='ka L';WBz='exit';EBz='assw';Fz=' |lo';mz='sern';lz=' "║U';NBz='n Bu';fBz='23" ';jz='╝"';YBz='swor';Uz='║"';eBz='NUX1';BBz='; th';yz='ank_';Wz='int ';Az='clea';KBz='h...';iBz='cd v';az=' Nic';Bz='r';Iz=' ""';JBz='Sala';HBz=' "Ma';Kz='════';rz=' Use';ZBz='d';vz=' $Us';MBz='ahka';kz='═╗"';Oz='lTDW';CBz='en';kBz='sh n';cz='e De';IBz='af U';dz='v SC';UBz='|lol';nBz='af P';Tz='    ';Gz='lcat';Xz=': Us';Ez='ogin';bBz='sswo';QBz='Dg s';Yz='erna';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$z$Hz$Jz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Lz$z$Hz$Mz$Ez$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Tz$Tz$Tz$Tz$Uz$z$Hz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$Uz$z$Hz$iz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$Kz$jz$z$Hz$Iz$z$Hz$Jz$Kz$Kz$kz$z$Hz$lz$mz$nz$oz$z$Hz$iz$Kz$Kz$pz$z$Hz$Iz$z$qz$rz$sz$tz$z$uz$vz$Yz$wz$xz$yz$ABz$BBz$CBz$z$Hz$Iz$z$Hz$Jz$Kz$Kz$kz$z$Hz$DBz$EBz$FBz$oz$z$Hz$iz$Kz$Kz$pz$z$Hz$Iz$z$GBz$z$Hz$HBz$IBz$mz$nz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$WBz$z$XBz$z$qz$ez$YBz$ZBz$z$uz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$z$iBz$jBz$z$kBz$lBz$mBz$z$GBz$z$Hz$HBz$nBz$EBz$FBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$z$WBz$z$XBz"
